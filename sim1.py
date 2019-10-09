@@ -47,7 +47,7 @@ while True:
     else:
         pass
 
-    #TODO:
+    #there was an empty todo here so rewrite the todo if you see this
     if noLongerNeedToSimulate:
         break
 
